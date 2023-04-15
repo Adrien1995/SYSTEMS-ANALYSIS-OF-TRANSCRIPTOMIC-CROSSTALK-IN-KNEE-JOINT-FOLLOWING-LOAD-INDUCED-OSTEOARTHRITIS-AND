@@ -1,4 +1,4 @@
-# Multi-tissue-network-analysis-predicts-tissue-level-changes-in-load-induced-osteoarthritis-
+# Spatiotemporal network analysis identifies gene clusters driving PTH-ALN treatment effects during load-induced osteoarthritis progression
 
 Structure
 
